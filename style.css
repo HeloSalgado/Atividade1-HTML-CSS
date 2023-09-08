@@ -1,0 +1,30 @@
+.div_mae{
+    background-color: #8ef0b5;
+    width: 900px;
+    height: 300px;
+}
+
+.div_filha{
+    background-color: #9383b5;
+    width: 300px;
+    height: 300px;
+}
+
+.p_texto{
+    color: #0fdbea;
+    background-color: rgb(134, 6, 128);
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div_pai{
+    width: 60%;
+    height: 40vh;
+    background-color: rgb(99, 11, 11);
+}
+
+.div_filho{
+    width: 20vw;
+    height: 50%;
+    background-color: rgb(255, 246, 81);
+}
